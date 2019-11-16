@@ -2,6 +2,5 @@
 Trabajo06 - Validadores en python 
 
 Integrantes:
-           - Rojas Lizana, Jhordan Napoleon 
-           
-           - Linares Olano, Yerson Erick
+- Rojas Lizana, Jhordan Napoleon 
+- Linares Olano, Yerson Erick
