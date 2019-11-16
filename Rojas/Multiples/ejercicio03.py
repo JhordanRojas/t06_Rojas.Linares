@@ -10,16 +10,6 @@ imc=peso/altura**2
 #verificador
 sobrepeso=(imc >= 25)
 
-#condicion multiple
-#si la persona tiene sobrepeso mostrar
-if (sobrepeso == True):
-    print(">> USTED AH DESBLOQUEADO NUESTRA DIETA EXCLUSIVA <<")
-if (19<peso<25):
-    print(" Usted esta en el peso correcto ")
-if (0<peso<19):
-    print(" Usted tiene delgadez, visite un medico ")
-#FIN_IF
-
 #output
 print("                                                 ")
 print("#################################################")
@@ -33,4 +23,14 @@ print("#################################################")
 print("El valor normal oscila entre 18.5 - 24.9")
 print("mas que eso es obesidad, menos significa delgadez")
 print("#################################################")
+
+#condicion multiple
+#si la persona tiene sobrepeso mostrar
+if (sobrepeso == True):
+    print(">> USTED AH DESBLOQUEADO NUESTRA DIETA EXCLUSIVA <<")
+if (19<peso<25):
+    print(" Usted esta en el peso correcto ")
+if (0<peso<19):
+    print(" Usted tiene delgadez, visite un medico ")
+#FIN_IF
 
