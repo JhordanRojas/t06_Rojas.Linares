@@ -28,3 +28,4 @@ print("#####################################################################")
 if (sumatoria_baja == True):
     print("                         LA SUMATORIA ES BAJA                      ")
 #FIN_IF
+
