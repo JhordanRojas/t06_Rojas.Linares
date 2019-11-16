@@ -11,6 +11,14 @@ velocidad_final = velocidad_inicial+(aceleracion*tiempo)
 #verificador
 alta_velocidad=(velocidad_final > 200)
 
+#condicion doble
+#si la velocidad es mayor que 200 mostrar mensaje
+if (alta_velocidad == True ):
+    print("                VAS COMO UN RAYO!!!              ")
+else:
+    print("  Tu velocidad es segura  ")
+#FIN_IF
+
 #output
 print("                                                    ")
 print("####################################################")
@@ -23,11 +31,4 @@ print("#--------------------------------------------------#")
 print("# Velocidad final del auto :  ", velocidad_final,"km/h")
 print("####################################################")
 
-#condicion doble
-#si la velocidad es mayor que 200 mostrar mensaje
-if (alta_velocidad == True ):
-    print("                VAS COMO UN RAYO!!!              ")
-else:
-    print("  Tu velocidad es segura  ")
-#FIN_IF
 
