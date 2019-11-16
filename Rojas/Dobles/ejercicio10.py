@@ -11,14 +11,6 @@ sumatoria=(primer_elemento+ultimo_elemento)*total_elementos/2
 #verifcador
 sumatoria_baja=(sumatoria < 550)
 
-#condicion doble
-#si la sumatoria es baja mostrar
-if (sumatoria_baja == True):
-    print("                         LA SUMATORIA ES BAJA                      ")
-else:
-    print(" La sumatoria tiene un valor alto ")
-#FIN_IF
-
 #output
 print("                                                                     ")
 print("#####################################################################")
@@ -30,5 +22,13 @@ print("# El total de elementos es:",total_elementos)
 print("#-------------------------------------------------------------------#")
 print("# El valor de la sumatoria de los elementos de la sucesion es:",sumatoria)
 print("#####################################################################")
+
+#condicion doble
+#si la sumatoria es baja mostrar
+if (sumatoria_baja == True):
+    print("                         LA SUMATORIA ES BAJA                      ")
+else:
+    print(" La sumatoria tiene un valor alto ")
+#FIN_IF
 
 
