@@ -13,16 +13,6 @@ tiempo_vuelo=(2*velocidad_inicial*math.sin(x))/gravedad
 #verificador
 vuelo_corto=(tiempo_vuelo<5)
 
-#condicion multiple
-#si el tiempo de vuelo es corto mostrar
-if (vuelo_corto == True):
-    print("                 ESTO SERA RAPIDO!             ")
-if (tiempo_vuelo>5 and tiempo_vuelo<30):
-    print(" El vuelo sera adecuado ")
-if (tiempo_vuelo>50):
-    print(" El vuelo sera muy largo ")
-#FIN_IF
-
 #output
 print("                                                         ")
 print("#########################################################")
@@ -34,5 +24,15 @@ print("# El valor del seno del angulo",y,"es:",math.sin(x))
 print("--------------------------------------------------------#")
 print("# El tiempo de vuelo del proyectil es:",tiempo_vuelo,"s")
 print("#########################################################")
+
+#condicion multiple
+#si el tiempo de vuelo es corto mostrar
+if (vuelo_corto == True):
+    print("                 ESTO SERA RAPIDO!             ")
+if (tiempo_vuelo>5 and tiempo_vuelo<30):
+    print(" El vuelo sera adecuado ")
+if (tiempo_vuelo>50):
+    print(" El vuelo sera muy largo ")
+#FIN_IF
 
 
