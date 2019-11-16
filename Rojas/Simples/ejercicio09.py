@@ -28,3 +28,4 @@ print("#########################################################")
 if (piramide_pequena == False):
     print("               ESTO ES LIGERAMENTE GRANDE              ")
 #FIN_IF
+
