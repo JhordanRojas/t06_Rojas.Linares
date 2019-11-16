@@ -17,7 +17,6 @@ if (alta_velocidad == True ):
     print("                VAS COMO UN RAYO!!!               ")
 #FIN_IF
 
-
 #output
 print("                                                    ")
 print("####################################################")
