@@ -25,11 +25,11 @@ print("############################################")
 
 #condicion multiple
 #si el area es pequeña mostrar
-if (area > 100):
+if (area > 100 and area<500):
     print("           ESTA AREA ES SUFICIENTE        ")
 if (area < 100 and area>50):
-    print(" Esta area es algo pequeña ")
-if (area > 500):
+    print(" Esta area es algo pequena ")
+if (area > 500 ):
     print(" Esta area es muy grande ")
 #FIN_IF
 
