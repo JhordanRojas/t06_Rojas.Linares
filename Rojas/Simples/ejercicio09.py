@@ -12,6 +12,7 @@ volumen=((area_base*altura_piramide)/3)
 #verificador
 piramide_pequena=(volumen < 78)
 
+#output
 print("                                                         ")
 print("#########################################################")
 print("#        CALCULADORA DE VOLUMEN DE UNA PIRAMIDE         #")
@@ -28,4 +29,4 @@ if (piramide_pequena == False):
     print("               ESTO ES LIGERAMENTE GRANDE              ")
 #FIN_IF
 
-#output
+
