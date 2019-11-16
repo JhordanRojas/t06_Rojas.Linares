@@ -23,10 +23,10 @@ print("#--------------------------------------------------#")
 print("# Velocidad final del auto :  ", velocidad_final,"km/h")
 print("####################################################")
 
-
 #condicion simple
 #si la velocidad es mayor que 200 mostrar advertencia
 if (alta_velocidad == True ):
     print("                VAS COMO UN RAYO!!!              ")
 #FIN_IF
+
 
