@@ -29,6 +29,6 @@ if (ahorro_alto == True):
     print("       Usted ha ganado una tarjeta debito premium     ")
     print("                >>>> FELICIDADES <<<<                 ")
 else:
-    print("  Buen ahorro, siga así ")
+    print("  Buen ahorro, siga asi ")
 #FIN_IF
 
