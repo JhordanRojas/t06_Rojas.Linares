@@ -11,16 +11,6 @@ presion_hidrostatica=densidad_liquido*gravedad*profundidad
 #verificador
 presion_alta=(presion_hidrostatica>400)
 
-#condicion multiple
-#si la presion es muy alta mostrar
-if (presion_alta == True):
-    print("             CUIDADO LA PRESION ES MUY ALTA !!         ")
-if (100<presion_hidrostatica<400):
-    print(" La presion es normal ")
-if (presion_hidrostatica<100):
-    print(" Cuidado la presion es muy baja ")
-#FIN_IF
-
 #output
 print("                                                              ")
 print("##############################################################")
@@ -33,4 +23,14 @@ print("#------------------------------------------------------------#")
 print("# La presion hidrostatica a la que esta sometida el")
 print("# cuerpo es de:",presion_hidrostatica)
 print("##############################################################")
+
+#condicion multiple
+#si la presion es muy alta mostrar
+if (presion_alta == True):
+    print("             CUIDADO LA PRESION ES MUY ALTA !!         ")
+if (100<presion_hidrostatica<400):
+    print(" La presion es normal ")
+if (presion_hidrostatica<100):
+    print(" Cuidado la presion es muy baja ")
+#FIN_IF
 
