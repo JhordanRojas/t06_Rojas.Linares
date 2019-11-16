@@ -96,7 +96,7 @@ python Rojas/multiples/ejercicio04.py 10 5 10
 
 python Rojas/multiples/ejercicio05.py 24 10 37
 python Rojas/multiples/ejercicio05.py 9 10 60
-python Rojas/multiples/ejercicio05.py 100 9.8 45
+python Rojas/multiples/ejercicio05.py 100 9.8 95
 
 python Rojas/multiples/ejercicio06.py 40 10 5
 python Rojas/multiples/ejercicio06.py 11 10 3
