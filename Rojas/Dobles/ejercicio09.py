@@ -12,6 +12,14 @@ volumen=((area_base*altura_piramide)/3)
 #verificador
 piramide_pequena=(volumen < 78)
 
+#condicion doble
+#si el volumen es mayor del recomendado mostrar
+if (piramide_pequena == False):
+    print("               ESTO ES LIGERAMENTE GRANDE              ")
+else:
+    print(" Esto no es grande ")
+#FIN_IF
+
 #output
 print("                                                         ")
 print("#########################################################")
@@ -23,10 +31,3 @@ print("#-------------------------------------------------------#")
 print("# El volumen de la piramide es:",volumen,"metros cubicos")
 print("#########################################################")
 
-#condicion doble
-#si el volumen es mayor del recomendado mostrar
-if (piramide_pequena == False):
-    print("               ESTO ES LIGERAMENTE GRANDE              ")
-else:
-    print(" Esto no es grande ")
-#FIN_IF
