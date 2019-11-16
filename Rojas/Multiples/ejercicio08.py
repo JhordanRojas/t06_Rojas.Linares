@@ -27,7 +27,7 @@ print("############################################################")
 
 #condicion multiple
 #Si el trabajo es alto mostrar
-if (trabajo_alto == False):
+if (1000>trabajo):
     print("                 HACE FALTA MAS POTENCIA             ")
 if (1000<trabajo<5000):
     print(" El trabajo es normal ")
