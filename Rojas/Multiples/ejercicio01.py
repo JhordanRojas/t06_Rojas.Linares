@@ -31,8 +31,6 @@ if (100<velocidad_final<200):
     print(" Buena velocidad ")
 if (0<velocidad_final<100):
     print(" La velocidad es muy baja ")
-else:
-    print(" valores erroneos ")
 #FIN_IF
 
 
