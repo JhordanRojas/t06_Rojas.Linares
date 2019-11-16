@@ -1,2 +1,6 @@
 # t06_Rojas.Linares
-trabajo06 - Validadores en python 
+Trabajo06 - Validadores en python 
+
+Integrantes:
+           - Rojas Lizana, Jhordan Napoleon 
+           - Linares Olano, Yerson Erick
