@@ -11,6 +11,16 @@ area=((base_mayor+base_menor)*altura)/2
 #verificador
 area_pequenia=(area<100)
 
+#condicion multiple
+#si el area es pequeña mostrar
+if (area > 100):
+    print("           ESTA AREA ES SUFICIENTE        ")
+if (area < 100 and area>50):
+    print(" Esta area es algo pequeña ")
+if (area > 500):
+    print(" Esta area es muy grande ")
+#FIN_IF
+
 #output
 print("                                            ")
 print("############################################")
@@ -23,14 +33,4 @@ print("#------------------------------------------#")
 print("# El valor del area del trapecio es:", area)
 print("############################################")
 
-
-#condicion multiple
-#si el area es pequeña mostrar
-if (area > 100):
-    print("           ESTA AREA ES SUFICIENTE        ")
-if (area < 100 and area>50):
-    print(" Esta area es algo pequeña ")
-if (area > 500):
-    print(" Esta area es muy grande ")
-#FIN_IF
 
