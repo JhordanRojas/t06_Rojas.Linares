@@ -28,9 +28,9 @@ print("#################################################")
 #si la persona tiene sobrepeso mostrar
 if (sobrepeso == True):
     print(">> USTED AH DESBLOQUEADO NUESTRA DIETA EXCLUSIVA <<")
-if (19<peso<25):
+if (19< imc <25):
     print(" Usted esta en el peso correcto ")
-if (0<peso<19):
+if (0< imc <19):
     print(" Usted tiene delgadez, visite un medico ")
 #FIN_IF
 
