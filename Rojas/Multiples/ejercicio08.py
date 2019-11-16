@@ -12,16 +12,6 @@ trabajo=(fuerza*distancia)
 #verificador
 trabajo_alto=(trabajo > 5000)
 
-#condicion multiple
-#Si el trabajo es alto mostrar
-if (trabajo_alto == False):
-    print("                 HACE FALTA MAS POTENCIA             ")
-if (1000<trabajo<5000):
-    print(" El trabajo es normal ")
-if (trabajo_alto == True):
-    print(" El valor del trabajo es alto ")
-#FIN_IF
-
 #Output
 print("                                                            ")
 print("############################################################")
@@ -34,4 +24,14 @@ print("# El valor de la fuerza ejercida es: ", fuerza)
 print("#----------------------------------------------------------#")
 print("# El valor del trabajo realizado es: ", trabajo)
 print("############################################################")
+
+#condicion multiple
+#Si el trabajo es alto mostrar
+if (trabajo_alto == False):
+    print("                 HACE FALTA MAS POTENCIA             ")
+if (1000<trabajo<5000):
+    print(" El trabajo es normal ")
+if (trabajo_alto == True):
+    print(" El valor del trabajo es alto ")
+#FIN_IF
 
