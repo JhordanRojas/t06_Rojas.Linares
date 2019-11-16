@@ -12,14 +12,6 @@ longitud_final=longitud+dilatacion_lineal
 #verificador
 mucha_dilatacion=(dilatacion_lineal>0.5)
 
-#condicion doble
-#si la dilatacion lineal es alta mostrar
-if (mucha_dilatacion == True):
-    print("              LA DILATACION ES EXCESIVA           ")
-else:
-    print(" La dilatacion es imperceptible ")
-#FIN_IF
-
 #output
 print("                                                            ")
 print("############################################################")
@@ -32,5 +24,13 @@ print("#----------------------------------------------------------#")
 print("# La dilatacion de la varilla es:",dilatacion_lineal,"m")
 print("# La longitud final de la varilla es:",longitud_final,"m")
 print("############################################################")
+
+#condicion doble
+#si la dilatacion lineal es alta mostrar
+if (mucha_dilatacion == True):
+    print("              LA DILATACION ES EXCESIVA           ")
+else:
+    print(" La dilatacion es imperceptible ")
+#FIN_IF
 
 
