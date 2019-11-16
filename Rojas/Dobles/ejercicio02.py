@@ -28,7 +28,7 @@ print("############################################")
 if (area_pequenia == False):
     print("           ESTA AREA ES SUFICIENTE        ")
 else:
-    print("  El area es realmente insuficiente  -")
+    print("  El area es realmente insuficiente  ")
 #FIN_IF
 
 
