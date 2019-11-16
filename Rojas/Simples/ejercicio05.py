@@ -25,9 +25,9 @@ print("--------------------------------------------------------#")
 print("# El tiempo de vuelo del proyectil es:",tiempo_vuelo,"s")
 print("#########################################################")
 
-
 #condicion simple
 #si el tiempo de vuelo es corto mostrar
 if (vuelo_corto == True):
     print("                 ESTO SERA RAPIDO!             ")
 #FIN_IF
+
