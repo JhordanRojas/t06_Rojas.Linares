@@ -30,3 +30,4 @@ if (area_pequenia == False):
     print("           ESTA AREA ES SUFICIENTE        ")
 #FIN_IF
 
+
