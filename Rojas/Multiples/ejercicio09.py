@@ -28,7 +28,7 @@ print("#########################################################")
 if (piramide_pequena == False):
     print("               ESTO ES LIGERAMENTE GRANDE              ")
 if (piramide_pequena == True):
-    print(" La pitamide es pequeña ")
+    print(" La piramide es pequena ")
 if (volumen > 1000):
     print(" la piramide es gigante ")
 #FIN_IF
