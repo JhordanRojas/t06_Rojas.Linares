@@ -19,6 +19,7 @@ if (trabajo_alto == False):
 else:
     print(" La potencia es suficiente ")
 #FIN_IF
+
 #Output
 print("                                                            ")
 print("############################################################")
