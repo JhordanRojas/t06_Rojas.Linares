@@ -24,9 +24,9 @@ print("# La presion hidrostatica a la que esta sometida el")
 print("# cuerpo es de:",presion_hidrostatica)
 print("##############################################################")
 
-
 #condicion simple
 #si la presion es muy alta mostrar
 if (presion_alta == True):
     print("             CUIDADO LA PRESION ES MUY ALTA !!         ")
 #FIN_IF
+
