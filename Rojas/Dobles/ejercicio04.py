@@ -11,6 +11,15 @@ dinero_final=dinero_inicial+(dinero_mensual*meses)
 #verificador
 ahorro_alto=(dinero_final > 1000)
 
+#condicion doble
+#si el  ahorro es alto mostrar el siguiente mensaje
+if (ahorro_alto == True):
+    print("       Usted ha ganado una tarjeta debito premium     ")
+    print("                >>>> FELICIDADES <<<<                 ")
+else:
+    print("  Buen ahorro, siga así ")
+#FIN_IF
+
 #output
 print("                                                        ")
 print("########################################################")
@@ -23,11 +32,3 @@ print("#------------------------------------------------------#")
 print("# El dinero total al final del ahorro es de:",dinero_final,"s/.")
 print("########################################################")
 
-#condicion doble
-#si el  ahorro es alto mostrar el siguiente mensaje
-if (ahorro_alto == True):
-    print("       Usted ha ganado una tarjeta debito premium     ")
-    print("                >>>> FELICIDADES <<<<                 ")
-else:
-    print("  Buen ahorro, siga así ")
-#FIN_IF
