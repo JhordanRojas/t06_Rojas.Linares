@@ -9,7 +9,7 @@ profundidad=float(os.sys.argv[3])
 presion_hidrostatica=densidad_liquido*gravedad*profundidad
 
 #verificador
-presion_alta=(presion_hidrostatica>400)
+presion_alta=(presion_hidrostatica>800)
 
 #output
 print("                                                              ")
