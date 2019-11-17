@@ -118,3 +118,123 @@ python Rojas/multiples/ejercicio10.py 12 51 0
 python Rojas/multiples/ejercicio10.py 15 53 14
 python Rojas/multiples/ejercicio10.py 1 100 50
 
+
+python Linares/simples/ejercicio01.py 5 2 3
+python Linares/simples/ejercicio01.py 1 4 2
+python Linares/simples/ejercicio01.py 6 2 2
+
+python Linares/simples/ejercicio02.py 40 30 50
+python Linares/simples/ejercicio02.py 30 30 20
+python Linares/simples/ejercicio02.py 60 55 44
+
+python Linares/simples/ejercicio03.py "ingrid" 60 90 50
+python Linares/simples/ejercicio03.py "yasseni" 50 30 40
+python Linares/simples/ejercicio03.py "vanessa" 20 25 125
+
+python Linares/simples/ejercicio04.py "erick" 200 225 300
+python Linares/simples/ejercicio04.py "noemi" 100 225 150
+python Linares/simples/ejercicio04.py "erick" 400 25 100
+
+python Linares/simples/ejercicio05.py "ana" 35 15 5
+python Linares/simples/ejercicio05.py "pedro" 40 2 3
+python Linares/simples/ejercicio05.py "fabricio" 20 4 21
+
+python Linares/simples/ejercicio06.py "pepe" 16 18 20
+python Linares/simples/ejercicio06.py "carlos" 15 19 20
+python Linares/simples/ejercicio06.py "pedro" 15 16 17
+
+python Linares/simples/ejercicio07.py "neymar" 800 900 1000
+python Linares/simples/ejercicio07.py "nestor" 200 950 1250
+python Linares/simples/ejercicio07.py "alan" 500 400 1500
+
+python Linares/simples/ejercicio08.py "magaly" 2050 1500 3000
+python Linares/simples/ejercicio08.py "erick" 1500 1300 500
+python Linares/simples/ejercicio08.py "marcial" 1650 1450 1890
+
+python Linares/simples/ejercicio09.py "juana" 50 50 30
+python Linares/simples/ejercicio09.py "pablo" 30 20 40
+python Linares/simples/ejercicio09.py "neo" 40 60 35
+
+python Linares/simples/ejercicio10.py "david" 12 5 10
+python Linares/simples/ejercicio10.py "cesar" 15 6 2
+python Linares/simples/ejercicio10.py "carla" 5 4 9
+
+python Linares/dobles/ejercicio01.py 5 3 2
+python Linares/dobles/ejercicio01.py 6 4 1
+python Linares/dobles/ejercicio01.py 1 10 4
+
+python Linares/dobles/ejercicio02.py 40 60 50
+python Linares/dobles/ejercicio02.py 20 45 75
+python Linares/dobles/ejercicio02.py 35 45 10
+
+python Linares/dobles/ejercicio03.py "rosa" 60 90 100
+python Linares/dobles/ejercicio03.py "pedro" 40 30 60
+python Linares/dobles/ejercicio03.py "ana" 45 45 85
+
+python Linares/dobles/ejercicio04.py "noemi" 300 250 100
+python Linares/dobles/ejercicio04.py "pepe" 150 150 50
+python Linares/dobles/ejercicio04.py "rubi" 210 165 400
+
+python Linares/dobles/ejercicio05.py "karol" 25 15 20
+python Linares/dobles/ejercicio05.py "katy" 21 5 16
+python Linares/dobles/ejercicio05.py "paty" 45 21 30
+
+python Linares/dobles/ejercicio06.py "jhordan" 19 18 17
+python Linares/dobles/ejercicio06.py "erick" 17 16 15
+python Linares/dobles/ejercicio06.py "julia" 16 20 20
+
+python Linares/dobles/ejercicio07.py "josefa" 800 950 400
+python Linares/dobles/ejercicio07.py "cristian" 1250 350 200
+python Linares/dobles/ejercicio07.py "itala" 1100 580 460
+
+python Linares/dobles/ejercicio08.py "fernando" 1600 2500 2350
+python Linares/dobles/ejercicio08.py "piero" 2150 3000 1200
+python Linares/dobles/ejercicio08.py "angie" 1200 1300 1400
+
+python Linares/dobles/ejercicio09.py "pedro" 50 40 60
+python Linares/dobles/ejercicio09.py "manuel" 75 30 20
+python Linares/dobles/ejercicio09.py "myrella" 55 58 65
+
+python Linares/dobles/ejercicio10.py "perla" 15 12 13
+python Linares/dobles/ejercicio10.py "Linda" 7 9 10
+python Linares/dobles/ejercicio10.py "pierina" 12 17 20
+
+python Linares/multiples/ejercicio01.py 3 6 2
+python Linares/multiples/ejercicio01.py 5 1 4
+python Linares/multiples/ejercicio01.py 2 6 1
+
+python Linares/multiples/ejercicio02.py 40 45 30
+python Linares/multiples/ejercicio02.py 50 20 15
+python Linares/multiples/ejercicio02.py 25 25 10
+
+python Linares/multiples/ejercicio03.py "taylor" 60 45 55
+python Linares/multiples/ejercicio03.py "miley" 45 45 55
+python Linares/multiples/ejercicio03.py "yudith" 30 70 25
+
+python Linares/multiples/ejercicio04.py "fiorella" 250 130 100
+python Linares/multiples/ejercicio04.py "anita" 150 150 190
+python Linares/multiples/ejercicio04.py "anderson" 120 180 185
+
+python Linares/multiples/ejercicio05.py "marta" 25 35 10
+python Linares/multiples/ejercicio05.py "keila" 20 15 10
+python Linares/multiples/ejercicio05.py "cristina" 21 14 4
+
+python Linares/multiples/ejercicio06.py "jesus" 18 19 18
+python Linares/multiples/ejercicio06.py "andrea" 17 18 17
+python Linares/multiples/ejercicio06.py "pedro" 15 14 17
+
+python Linares/multiples/ejercicio07.py "yasseni" 800 700 600
+python Linares/multiples/ejercicio07.py "jennie" 500 750 635
+python Linares/multiples/ejercicio07.py "luis" 450 350 700
+
+python Linares/multiples/ejercicio08.py "lissa" 1000 2350 2000
+python Linares/multiples/ejercicio08.py "jose" 1200 1300 2450
+python Linares/multiples/ejercicio08.py "eva" 1300 1250 2300
+
+python Linares/multiples/ejercicio09.py "julian" 45 42 46
+python Linares/multiples/ejercicio09.py "magaly" 44 44 35
+python Linares/multiples/ejercicio09.py "celeste" 40 45 20
+
+python Linares/multiples/ejercicio10.py "jisoo" 7 7 9
+python Linares/multiples/ejercicio10.py "fabricio" 6 9 4
+python Linares/multiples/ejercicio10.py "moises" 3 8 5
